@@ -17,8 +17,8 @@ You should use *Terraform* to deploy the server.
 - Deploy the node server to AWS
 - Make it Production ready 
 
-## Technical Questions
-Please answer the following questions as part of your submission.
+## Deliverables
+As part of you submission please include a Markdown file that answers the following questions:
 
 1. Describe why you made the choices that you did. What would you do differently?
 2. How long did you spend on the coding test? Why that length of time?
