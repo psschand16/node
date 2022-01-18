@@ -7,7 +7,11 @@ To submit your tech test please send a tarball of your solution via email. Pleas
 Please use git while you work and submit the .git folder as part of your submission.
 
 ## Technical Test
-Here we have a basic hello-world style node server. The exercise is to deploy it to the cloud as you would any production service, explaining any and all decisions that are made along the way.
+Here we have a basic hello-world style node server. 
+
+The exercise is to deploy it to the cloud as you would any production service, explaining any and all decisions that are made along the way.
+
+You should use *Terraform* to deploy the server.
 
 ### Requirements
 - Deploy the node server to AWS
